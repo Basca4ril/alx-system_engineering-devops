@@ -5,3 +5,4 @@
 4-listmorefiles - List hiddent contents of current directory
 5-listfilesdigitonly - List hiddent contents of current directory with user and group ids displayed numerically
 6-firstdirectory - Creates a directory
+7-movethatfile - Move file to different directory
