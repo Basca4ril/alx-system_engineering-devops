@@ -11,3 +11,4 @@
 10-back - Changes working directory ot the previous one
 11-lists - List all fils in the current working directory and parent of working directory
 12-file_type - Print file-type of file
+13-symbolic_link - Create a symbolic link to /bin/ls named __ls__
