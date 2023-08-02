@@ -4,3 +4,4 @@
 3-listfiles - List contents of directory in long format
 4-listmorefiles - List hiddent contents of current directory
 5-listfilesdigitonly - List hiddent contents of current directory with user and group ids displayed numerically
+6-firstdirectory - Creates a directory
