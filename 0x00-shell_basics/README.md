@@ -9,3 +9,4 @@
 8-firstdelete - Delete file named betty
 9-firstdirdeletion - Delete directory named my_first_directory
 10-back - Changes working directory ot the previous one
+11-lists - List all fils in the current working directory and parent of working directory
