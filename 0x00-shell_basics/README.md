@@ -7,3 +7,4 @@
 6-firstdirectory - Creates a directory
 7-movethatfile - Move file named betty to different directory
 8-firstdelete - Delete file named betty
+9-firstdirdeletion - Delete directory named my_first_directory
