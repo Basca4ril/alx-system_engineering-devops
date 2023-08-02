@@ -8,3 +8,4 @@
 7-movethatfile - Move file named betty to different directory
 8-firstdelete - Delete file named betty
 9-firstdirdeletion - Delete directory named my_first_directory
+10-back - Changes working directory ot the previous one
