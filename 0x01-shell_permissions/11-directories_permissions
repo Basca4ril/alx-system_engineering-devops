@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod ugo+rx hello
+find . -type d -exec chmod a+rx {} +
