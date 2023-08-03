@@ -3,3 +3,4 @@
 2-groups - Prints group that the current user is a member of
 3-new_owner - Changes owner of file to betty
 4-empty - Creates an empty file name hello
+5-execute - Add execute permission to file owner
