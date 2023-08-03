@@ -12,4 +12,5 @@
 11-directories_permissions -  adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
 12-directories_permissions - creates a directory called my_dir with permissions 751 in the working directory.
 13-change_group -  changes group permission for file
-101-symbolic_link_permissions -changes the owner and the group owner of _hello to vincent and staff respectively.
+101-symbolic_link_permissions -changes the owner and the group owner of _hello to vincent and staff respectively
+FROM PC
